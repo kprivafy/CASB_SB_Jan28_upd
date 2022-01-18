@@ -2,8 +2,6 @@ import requests
 import time
 import json
 import base64
-import random
-import datetime
 
 
 def add_user(headers,payload):
